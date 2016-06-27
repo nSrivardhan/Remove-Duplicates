@@ -9,7 +9,7 @@ import java.util.Arrays;
 /**
  * This class holds any type of comparable class.
  * And help you to remove duplicate elements from random type array.
- * @author Harini
+ * @author srinivas
  */
 public class DeDup<T extends Comparable<? super T>> {
 	/**

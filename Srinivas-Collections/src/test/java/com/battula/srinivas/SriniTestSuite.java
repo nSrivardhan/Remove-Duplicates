@@ -8,7 +8,7 @@ import org.junit.runners.Suite;
 
 /**
  * TestSuite Runner for the all the classes in this package.
- * @author Harini
+ * @author srinivas
  * 
  */
 @RunWith(Suite.class)
